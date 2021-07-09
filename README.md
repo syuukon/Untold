@@ -1,0 +1,1 @@
+General utility & text to speech bot for discord written in Javascript, using FFMPEG to speak messages, to compliment my music bot and for the purpose of learning Javascript. There will probably be bugs, but I will try my best to fix them and improve the bot as I continue to learn.
